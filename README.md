@@ -9,7 +9,13 @@ Practices on:
 2. data preprocessing
 3. model creation using sklearn
 
-all the information in the notebook
+techniques in the notebook:
+* Pandas data wrangling.
+* Data preprocessing techniques.
+* sklearn
+* linear regression.
+* Random Forest.
+* Neural Net.
 
 what's next:
 clean the notebook dividing it into quick ml workflow, then pre-processing data properly saving it here, then each model in one notebook.
