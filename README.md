@@ -19,3 +19,7 @@ techniques in the notebook:
 
 what's next:
 clean the notebook dividing it into quick ml workflow, then pre-processing data properly saving it here, then each model in one notebook.
+
+notebooks
+1. simple housing price: i made it after reading chapter 2 from hands on ml book.
+
